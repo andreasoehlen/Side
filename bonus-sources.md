@@ -63,17 +63,22 @@ Monitor these directly for reload bonuses:
 
 ## Offer Types to Monitor
 
-### Casino Bonuses
+**FOCUS: Existing customer bonuses only**
+**EXCLUDE: Welcome bonuses, insurance/refunds, site features, competitions**
+
+### Casino Bonuses (Existing Customers)
 - **Reload Bonuses**: Deposit match bonuses for existing customers
-- **Free Spins**: No deposit or deposit-based free spins
+- **Free Spins**: Reload free spins for existing players
 - **Cashback**: Weekly/monthly cashback on losses
 - **Loyalty Rewards**: VIP program bonuses
+- **Weekend Boosters**: Thursday-Sunday special offers
 
-### Sports Betting
-- **Freebets**: Risk-free bets or bonus bets
-- **Odds Boosts**: Enhanced odds on specific events
-- **Acca Insurance**: Refunds on accumulator bets
-- **Cash Out**: Early cash out promotions
+### Sports Betting (Existing Customers)
+- **Reload Freebets**: Free bets given to existing customers
+- **Odds Boosts**: Enhanced odds tokens (daily/weekly)
+- **Acca Boosts**: Percentage boost on winning accumulators
+- **Cashback/Rakeback**: Automatic percentage back on losses or rake
+- **Event-Specific Promos**: Derby bonus bets, Champions League freebets, etc.
 
 ## Search Schedule
 - **Monday & Thursday**: Comprehensive search for new offers

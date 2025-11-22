@@ -3,80 +3,22 @@
 **Report Date:** 2025-11-22
 **Sources:** BetXpert.com, Oddsbonusser.com
 **License:** All offers are DGA (Spillemyndigheden) licensed
+**Focus:** Existing customer offers only (no welcome bonuses)
 
 ---
 
-## 🔥 TIME-SENSITIVE OFFERS (Action Required)
-
-### Expekt - Risk-Free Derby Bet
-- **Amount:** 1,000 kr risk-free
-- **Event:** FC København vs. Brøndby
-- **Expires:** November 23, 2025 (TOMORROW)
-- **Terms:** New players only
-- **Priority:** HIGH - Derby match, good EV potential
+## 🔥 TIME-SENSITIVE RELOAD OFFERS
 
 ### Cashpoint - Black Week Campaign
 - **Amount:** 100 kr free bet
 - **Requirement:** Bet 100 kr on football
 - **Expires:** November 30, 2025
-- **Terms:** Via app deposit
-- **Priority:** MEDIUM
+- **Customer Type:** Existing customers
+- **Priority:** HIGH - Limited time
 
 ---
 
-## 💰 BEST VALUE BONUSES (Ranked by EV Potential)
-
-### Top 3 Sports Betting Bonuses
-
-#### 1. Expekt - Second Chance Bets ⭐ BEST
-- **Amount:** Up to 1,000 kr
-- **Wagering:** NO playthrough required
-- **Validity:** 30 days
-- **EV Rating:** Highest (no wagering = easy conversion)
-- **Status:** Available for new customers
-
-#### 2. LeoVegas - Second Chance Bets
-- **Amount:** Up to 1,000 kr (5x200 kr)
-- **Wagering:** NO playthrough required
-- **Validity:** 30 days
-- **EV Rating:** High
-- **Note:** Split into 5 separate bonuses
-
-#### 3. CampoBet - 100% Deposit Match
-- **Amount:** Up to 1,000 kr
-- **Wagering:** 5x playthrough (LOWEST on market)
-- **Min Odds:** 1.50
-- **EV Rating:** High (low wagering)
-
----
-
-## 📊 ALL SPORTS BETTING BONUSES
-
-| Bookmaker | Type | Amount | Wagering | Min Odds | Validity | EV Rating |
-|-----------|------|--------|----------|----------|----------|-----------|
-| Expekt | Second chance | 1,000 kr | None | - | 30 days | ⭐⭐⭐⭐⭐ |
-| LeoVegas | Second chance | 1,000 kr | None | - | 30 days | ⭐⭐⭐⭐⭐ |
-| CampoBet | 100% match | 1,000 kr | 5x | 1.50 | - | ⭐⭐⭐⭐ |
-| Unibet | 100% match | 1,000 kr | 8x | 1.40 | - | ⭐⭐⭐⭐ |
-| Betinia | 100% match | 1,000 kr | 10x | 2.0 | - | ⭐⭐⭐ |
-| ComeOn | 100% match | 1,000 kr | 10x | 1.80 | - | ⭐⭐⭐ |
-| Betano | 100% match | 1,000 kr | 10x | - | - | ⭐⭐⭐ |
-| Bet365 | Betting credits | 1,000 kr | - | 1.20 | 60 days | ⭐⭐⭐ |
-| Bwin | Back up-spil | 1,000 kr | - | - | - | ⭐⭐⭐ |
-| Betsson | Free bet | 500 kr | - | 1.80 | 60 days | ⭐⭐⭐ |
-| NordicBet | Free bet | 500 kr | - | - | - | ⭐⭐⭐ |
-| Spreadex | Free bets | 500 kr | - | 2.0 | 90 days | ⭐⭐⭐ |
-| Betit | 100% match | 500 kr | 10x | - | - | ⭐⭐ |
-| Cashpoint | Free bet | 500 kr | - | - | - | ⭐⭐ |
-| Marathonbet | 100% match | 500 kr | 10x | - | - | ⭐⭐ |
-| Betfair | Bonus | 200 kr | - | - | - | ⭐⭐ |
-| Mr Green | Cash bonus | 100 kr | - | 2.0 | 60 days | ⭐⭐ |
-| GetLucky | Free bet | 100 kr | - | - | - | ⭐⭐ |
-| Casinostuen | Free bet | 100 kr | - | - | - | ⭐⭐ |
-
----
-
-## 🎰 EXISTING CUSTOMER OFFERS (Reload Bonuses)
+## 🎰 EXISTING CUSTOMER OFFERS (Reload Bonuses & Promotions)
 
 ### Betfair Sportsbook - Daily Odds Boost
 - **Type:** Enhanced odds token
@@ -84,22 +26,11 @@
 - **Qualification:** None required
 - **Value:** Variable based on boost %
 
-### Betinia - 0-0 Refund
-- **Type:** Cashback
-- **Trigger:** When match ends 0-0
-- **Markets:** Selected leagues, prematch only
-- **Value:** Full stake refund
-
 ### Betinia - 10% Accumulator Boost
 - **Type:** Winnings boost
 - **Requirements:** Min 3 selections at 1.80+ odds
 - **Boost:** +10% on winnings
 - **Value:** Good for regular acca players
-
-### Betinia - Early Payout (2 Goal Lead)
-- **Type:** Early settlement
-- **Sports:** Football, tennis, ice hockey, American football, basketball, baseball
-- **Value:** Risk reduction
 
 ### Bet365 - Poker Rakeback
 - **Type:** Cashback
@@ -113,63 +44,73 @@
 - **Requirement:** Deposit 100 kr via app
 - **Value:** 100% return, excellent
 
-### NordicBet - Free Competition
-- **Type:** Prize pool
-- **Prize:** Up to 500,000 kr
-- **Entry:** Answer 20 questions
-- **Value:** Free entry, high variance
-
 ---
 
 ## 📈 EV CALCULATION NOTES
 
-### No Wagering Bonuses (Expekt, LeoVegas)
-- **Expected Value:** ~70-80% of bonus amount
-- **Method:** Use for matched betting or value betting
+### Odds Boosts
+- **Expected Value:** Variable (5-20% boost typical)
+- **Method:** Compare boosted odds to market odds
 - **Risk:** Low
-- **Time:** Quick conversion (1-5 bets)
+- **Time:** Instant (single bet)
 
-### Low Wagering (CampoBet 5x, Unibet 8x)
-- **Expected Value:** ~50-70% of bonus amount
-- **Method:** Bet on favorites at required odds
-- **Risk:** Medium
-- **Time:** Moderate (5-20 bets)
+### Cashback (Poker Rakeback)
+- **Expected Value:** 10% of rake paid
+- **Method:** Play normally, collect weekly
+- **Risk:** None (free money)
+- **Time:** Weekly automatic payout
 
-### Standard Wagering (10x at 1.80+ odds)
-- **Expected Value:** ~30-50% of bonus amount
-- **Method:** Volume betting on 1.80-2.0 odds
-- **Risk:** Medium-High
-- **Time:** Longer (20-40 bets)
+### Accumulator Boosts (10% on Betinia)
+- **Expected Value:** +10% on winning accas
+- **Method:** Build 3+ leg accas at 1.80+ odds
+- **Risk:** High (acca variance)
+- **Time:** Regular betting
 
 ---
 
 ## ✅ RECOMMENDED ACTION PLAN
 
-### Priority 1: Time-Sensitive (Next 48 hours)
-1. **Expekt Derby Bet** - 1,000 kr risk-free (expires Nov 23)
-   - Potential profit: 700-800 kr
-   - Time required: 1 bet
+### Priority 1: Time-Sensitive (This Week)
+1. **Cashpoint Black Week** - 100 kr free bet (expires Nov 30)
+   - Potential profit: 70-80 kr
+   - Time required: 1 bet + conversion
 
-### Priority 2: Best Value (This Week)
-2. **Expekt Second Chance** - 1,000 kr no wagering
-   - Potential profit: 700-800 kr
-   - Time required: 2-3 hours
+### Priority 2: Daily/Ongoing Value
+2. **Betfair Daily Odds Boost** - Daily enhanced odds
+   - Integrate into regular betting routine
+   - Check daily for best value boosts
 
-3. **LeoVegas Second Chance** - 1,000 kr (5x200kr) no wagering
-   - Potential profit: 700-800 kr
-   - Time required: 3-5 hours
-
-4. **CampoBet** - 1,000 kr with 5x wagering
-   - Potential profit: 500-700 kr
-   - Time required: 5-10 hours
-
-### Priority 3: Existing Customer Offers (Ongoing)
-5. **Cashpoint App Bonus** - 100 kr for 100 kr deposit
+3. **Cashpoint App Bonus** - 100 kr for 100 kr deposit
    - Potential profit: 70-80 kr
    - Time required: 30 minutes
 
-6. **Betfair Daily Odds Boost** - Daily tokens
-   - Integrate into regular betting routine
+4. **Betinia 10% Acca Boost** - For regular acca players
+   - Build 3+ leg accas at 1.80+ odds
+   - Extra 10% on all winning accas
+
+5. **Bet365 Poker Rakeback** - If you play poker
+   - Automatic 10% weekly (max 100 EUR)
+
+---
+
+## 📝 SUMMARY
+
+**Total Reload Bonuses Found:** 5 existing customer bonuses
+- 1 time-sensitive (expires Nov 30)
+- 4 ongoing reload bonuses
+- 0 welcome bonuses (excluded)
+- 0 non-bonus features (excluded)
+
+**Best Immediate Value:**
+1. Cashpoint Black Week (100 kr, expires Nov 30)
+2. Cashpoint App Bonus (100 kr instant)
+3. Betfair Daily Odds Boost (ongoing)
+
+**Key Insights:**
+- Very limited reload bonuses currently available
+- Best value: Cashpoint quick-hit bonuses (2x100kr = ~140-160kr profit)
+- Daily value: Betfair odds boosts
+- Ongoing: Betinia acca boost, Bet365 poker rakeback
 
 ---
 
@@ -177,16 +118,17 @@
 
 - All bonuses verified as DGA-licensed (tax-free winnings)
 - Maximum 10x wagering on all bonuses (DGA regulation)
-- No wagering on free spins (DGA regulation)
-- Recommended to complete highest EV bonuses first
+- Welcome bonuses excluded - focus on reload/existing customer only
 - Track all bonuses in `betting-tracker.json`
+- Most sites send reload offers via email - check spam folders
 
 ---
 
 ## 🔄 NEXT UPDATE
 
 **Scheduled:** Monday, November 25, 2025
-**Sources to check:**
-- BetXpert forum for weekend offers
-- Individual casino email newsletters
-- Spillemyndigheden for new license holders
+**Focus Areas:**
+- BetXpert forum for weekend reload offers
+- Individual casino email newsletters (check Friday-Sunday for weekend promos)
+- Sports-specific offers (e.g., Premier League, Champions League)
+- Holiday/event-based promotions
