@@ -26,22 +26,11 @@
 - **Qualification:** None required
 - **Value:** Variable based on boost %
 
-### Betinia - 0-0 Refund
-- **Type:** Cashback
-- **Trigger:** When match ends 0-0
-- **Markets:** Selected leagues, prematch only
-- **Value:** Full stake refund
-
 ### Betinia - 10% Accumulator Boost
 - **Type:** Winnings boost
 - **Requirements:** Min 3 selections at 1.80+ odds
 - **Boost:** +10% on winnings
 - **Value:** Good for regular acca players
-
-### Betinia - Early Payout (2 Goal Lead)
-- **Type:** Early settlement
-- **Sports:** Football, tennis, ice hockey, American football, basketball, baseball
-- **Value:** Risk reduction
 
 ### Bet365 - Poker Rakeback
 - **Type:** Cashback
@@ -55,12 +44,6 @@
 - **Requirement:** Deposit 100 kr via app
 - **Value:** 100% return, excellent
 
-### NordicBet - Free Competition
-- **Type:** Prize pool
-- **Prize:** Up to 500,000 kr
-- **Entry:** Answer 20 questions
-- **Value:** Free entry, high variance
-
 ---
 
 ## 📈 EV CALCULATION NOTES
@@ -71,11 +54,11 @@
 - **Risk:** Low
 - **Time:** Instant (single bet)
 
-### Cashback/Refund Offers
-- **Expected Value:** 10-30% of stake
-- **Method:** Bet normally, collect refund on losses
-- **Risk:** Medium
-- **Time:** Varies by offer terms
+### Cashback (Poker Rakeback)
+- **Expected Value:** 10% of rake paid
+- **Method:** Play normally, collect weekly
+- **Risk:** None (free money)
+- **Time:** Weekly automatic payout
 
 ### Accumulator Boosts (10% on Betinia)
 - **Expected Value:** +10% on winning accas
@@ -105,18 +88,18 @@
    - Build 3+ leg accas at 1.80+ odds
    - Extra 10% on all winning accas
 
-### Priority 3: Risk Management Tools
-5. **Betinia 0-0 Refund** - Use on tight defensive matches
-6. **Betinia Early Payout** - Use on favorites with 2-goal leads
+5. **Bet365 Poker Rakeback** - If you play poker
+   - Automatic 10% weekly (max 100 EUR)
 
 ---
 
 ## 📝 SUMMARY
 
-**Total Reload Offers Found:** 8 existing customer promotions
+**Total Reload Bonuses Found:** 5 existing customer bonuses
 - 1 time-sensitive (expires Nov 30)
-- 7 ongoing reload/promotional offers
-- 0 welcome bonuses (excluded per criteria)
+- 4 ongoing reload bonuses
+- 0 welcome bonuses (excluded)
+- 0 non-bonus features (excluded)
 
 **Best Immediate Value:**
 1. Cashpoint Black Week (100 kr, expires Nov 30)
@@ -124,10 +107,10 @@
 3. Betfair Daily Odds Boost (ongoing)
 
 **Key Insights:**
-- Limited time-sensitive reload bonuses currently available
-- Most value comes from ongoing promotional offers
-- Betinia has strongest ongoing promo suite (3 offers)
-- Cashpoint offers best quick-hit bonuses (2x100kr)
+- Very limited reload bonuses currently available
+- Best value: Cashpoint quick-hit bonuses (2x100kr = ~140-160kr profit)
+- Daily value: Betfair odds boosts
+- Ongoing: Betinia acca boost, Bet365 poker rakeback
 
 ---
 

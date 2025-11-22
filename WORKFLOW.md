@@ -162,6 +162,7 @@ When you message me, use these phrases:
 
 - `betting-tracker.json` - Your current balances and history
 - `bonus-sources.md` - Where to find offers
+- `bonus-criteria.md` - What counts as a bonus (exclude bloat)
 - `ev-calculation-guide.md` - How EV is calculated
 - `WORKFLOW.md` - This file
 
