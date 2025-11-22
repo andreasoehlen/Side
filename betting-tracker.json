@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "last_updated": "2025-11-22",
+    "default_rtp": 0.94,
+    "currency": "DKK"
+  },
+  "sites": {
+    "Bet365": {
+      "total_deposits": 350,
+      "total_withdrawals": 4050,
+      "current_balance": 2096,
+      "profit": 5796,
+      "status": "active",
+      "signup_bonus_used": true
+    },
+    "Expekt": {
+      "total_deposits": 1000,
+      "total_withdrawals": 700,
+      "current_balance": 300,
+      "profit": 0,
+      "status": "active",
+      "signup_bonus_used": true
+    },
+    "Betano": {
+      "total_deposits": 1000,
+      "total_withdrawals": 0,
+      "current_balance": 1012,
+      "profit": 12,
+      "status": "active",
+      "signup_bonus_used": true
+    },
+    "Danske Spil": {
+      "total_deposits": 50,
+      "total_withdrawals": 0,
+      "current_balance": 66,
+      "profit": 16,
+      "status": "active",
+      "signup_bonus_used": true
+    },
+    "LeoVegas": {
+      "total_deposits": 1000,
+      "total_withdrawals": 0,
+      "current_balance": 0,
+      "profit": -1000,
+      "status": "active",
+      "signup_bonus_used": true
+    }
+  },
+  "weekly_sessions": [],
+  "offer_history": []
+}
