@@ -12,10 +12,11 @@ Simply message: **"Update on offers"** or similar
 
 I will then:
 1. Search all sources for current Danish casino/sports bonuses
-2. Filter for offers you can take (exclude signup bonuses)
-3. Calculate EV for each offer
-4. Assess volatility and 5% worst case
-5. Return a **prioritized checklist** with recommendations
+2. **Filter for EXISTING CUSTOMER offers only** (exclude ALL welcome bonuses)
+3. Focus on: reload bonuses, freebets, odds boosts, cashback, event promos
+4. Calculate EV for each offer
+5. Assess volatility and 5% worst case
+6. Return a **prioritized checklist** with recommendations
 
 ---
 
@@ -147,12 +148,13 @@ When you message me, use these phrases:
 
 ## Tips for Maximum Profit
 
-1. **Prioritize no-deposit offers**: Freebets and free spins with 0kr risk
-2. **Take high priority offers immediately**: Time-sensitive deals expire
-3. **Track your time**: Sometimes low EV isn't worth 2 hours of play
-4. **Diversify sites**: Don't put all money on one site
-5. **Set stop-loss**: If 5% worst case is too high for your bankroll, skip
-6. **Check emails**: Sites send exclusive offers to existing customers
+1. **Prioritize reload freebets**: Existing customer freebets with 0kr risk
+2. **Check emails daily**: Sites send exclusive reload offers to existing customers (Thu-Sun especially)
+3. **Take time-sensitive offers immediately**: Event-based promos expire quickly
+4. **Track your time**: Sometimes low EV isn't worth 2 hours of play
+5. **Use odds boosts daily**: Check Betfair, Betinia for daily enhanced odds
+6. **Diversify sites**: Don't put all money on one site
+7. **Weekend promos**: Friday-Sunday usually has best reload bonuses
 
 ---
 
